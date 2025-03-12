@@ -1,6 +1,6 @@
 ## Welcome 👋
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/TwojNick">Szarvo</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/Szarvo">Szarvo</a> 👋</h1>
 
 <p align="center">
 🚀 LUA Backend Developer | MTA & FiveM  
