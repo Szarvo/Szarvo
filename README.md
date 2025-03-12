@@ -20,16 +20,16 @@
 
 ### 📈 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TwojNick&show_icons=true&theme=tokyonight" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TwojNick&theme=tokyonight" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Szarvo&show_icons=true&theme=tokyonight" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Szarvo&theme=tokyonight" width="45%">
 </div>
 
 ---
 
 ### 🌎 Connect with me
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TwojNick)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TwojNick)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TwojNick)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Szarvo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Szarvo)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Szarvo)
 
 ---
 
